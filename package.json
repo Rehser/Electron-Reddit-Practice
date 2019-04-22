@@ -1,0 +1,20 @@
+{
+  "name": "electron-practice",
+  "version": "1.0.0",
+  "description": "Electron practice (mini-Reddit).",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "Javascript",
+    "Practice"
+  ],
+  "author": "Emil Barranco",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "electron": "^4.1.4"
+  }
+}

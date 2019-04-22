@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+body {
+font-family: Roboto Slab;
+padding: 24px;
+color: black;
+background-image: url(img.jpg);
+}
+
+h1 {
+text-align: center;
+color: white;
+}
+
+.list-group-item {
+cursor: pointer;
+}
+
+.list-group-item:hover{
+background-color: #eee;
+}
+
+.thumbnail {
+width: 60px;
+height: 60px;
+border-radius: 30px;
+margin-right: 16px;
+}
